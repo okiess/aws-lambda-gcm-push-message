@@ -36,7 +36,3 @@ event.json
 node_modules
 config.json
 client-config.json
-prod_cert.pem
-prod_key.pem
-dev_cert.pem
-dev_key.pem
