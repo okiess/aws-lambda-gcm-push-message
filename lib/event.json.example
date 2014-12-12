@@ -1,0 +1,11 @@
+{
+  "platform": "gcm",
+  "gcm_api_key": "TODO",
+  "tokens": ["<insert reg id here>", "<insert reg id here>"],
+  "message": "You have a message!",
+  "collapse_key": "push_message",
+  "delay_while_idle": false,
+  "custom_data": {
+    "foo": "bar"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "aws-lambda-gcm-push-message",
+  "version": "0.0.1",
+  "description": "AWS Lambda function to send an Android GCM push message",
+  "bin": {
+    "node-lambda": "./bin/node-lambda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/okiess/aws-lambda-gcm-push-message.git"
+  },
+  "author": "okiess",
+  "dependencies": {
+    "aws-sdk": "^2.0.28",
+    "commander": "^2.5.0",
+    "dotenv": "^0.4.0",
+    "node-gcm": "^0.9.12"
+  }
+}
